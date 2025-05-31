@@ -1,5 +1,5 @@
-# Face-Recognition-and-Grouping
-# Face Grouping and Recognition Application
+# Face Recognition and Grouping
+
 
 This project provides a complete face grouping and recognition system using Python. It includes a Jupyter Notebook interface with a simple UI built on `ipywidgets` to load images, group faces by similarity, and perform live webcam-based recognition.
 
